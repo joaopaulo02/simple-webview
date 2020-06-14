@@ -4,4 +4,4 @@ This is a simple webview
 => Technologies that were used:
 
 * Javascript
- - Electron.js
+  - Electron.js
