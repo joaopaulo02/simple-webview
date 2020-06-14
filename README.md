@@ -1,2 +1,7 @@
-# <h1>simple-webview</h1>
-this is a simple webview made with electron.js
+# <h1>Simple Webview</h1>
+This is a simple webview
+
+=> Technologies that were used:
+
+* Javascript
+  - Electron.js
