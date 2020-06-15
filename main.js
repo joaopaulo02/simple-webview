@@ -1,5 +1,4 @@
 const { app, BrowserWindow, globalShortcut } = require('electron')
-const config = require('./config')
 
 let win;
 
@@ -16,7 +15,7 @@ function createWindow () {
   })
 
   // and load the index.html of the app.
-  win.loadURL(config.url)
+  win.loadURL(http://localhost:3000)
 }
 
 function toggleDevTools() {
